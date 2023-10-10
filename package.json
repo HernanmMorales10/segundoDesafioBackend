@@ -1,0 +1,25 @@
+{
+    "name": "preentrega2backend",
+    "version": "1.0.0",
+    "main": "ProductManager.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "dev": "nodemon app.js",
+      "start": "node app.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "type": "module",
+    "repository": {
+      "url": "git+https://github.com/"
+    },
+    "bugs": {
+      "url": "https://github.com/"
+    },
+    "homepage": "https://github.com/",
+    "description": "",
+    "dependencies": {
+      "express": "^4.18.2"
+    }
+  }
